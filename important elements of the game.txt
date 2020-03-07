@@ -1,0 +1,30 @@
+1.Characters in our game
+a.pc(pac man)
+b.NPC(non playing character) ex. ghost
+
+2.Goal
+a.eat up all the yellow dots
+
+3.Rules
+a.2 lives
+b.pac man can eat all the yellow dots in the maze
+c. ghost can eat the pac man
+e.when the power pallets eat connsumed they can eaten by the pac man
+d.the ghost can be reborn after eaten
+f.win condindion: eat all yelllow dots
+h.losing condition: if pac mna oloses all lives
+
+4.Balance in the game(not too easy not too difficult)
+a. elements of balancing
+b. five power plallects on the other hand 4 ghost
+c. pac man can hide in the corners
+
+5.Some skill and some chance
+a. movement of the ghost(random)
+b. skill of the player to move as fast as possible and the usage of the power plallets
+
+6.Immediate feedback to the player
+a. sound effect 
+b. elements to provide feedback
+
+7.Story
